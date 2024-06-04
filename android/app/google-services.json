@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "967117402022",
+    "project_id": "databaseproject-20ada",
+    "storage_bucket": "databaseproject-20ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967117402022:android:93e05697792835b53c6967",
+        "android_client_info": {
+          "package_name": "com.mycompany.flutterflowdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967117402022-ai6nrh0tr8q7ps8j34e0a14kqef6mctu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhVxuWWUwWIsWqMuQaoZE4nk2PCpwZ3X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967117402022-ai6nrh0tr8q7ps8j34e0a14kqef6mctu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967117402022-5vr9vh8i94fjkscgvkl5e0is15dditnj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.sociallink"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967117402022:android:2a8af5d22287c6c33c6967",
+        "android_client_info": {
+          "package_name": "com.mycompany.sociallink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967117402022-87ft6d8dq2vtullcunh3hh6qsm6j7oe9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.sociallink",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "967117402022-ai6nrh0tr8q7ps8j34e0a14kqef6mctu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhVxuWWUwWIsWqMuQaoZE4nk2PCpwZ3X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967117402022-ai6nrh0tr8q7ps8j34e0a14kqef6mctu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967117402022-5vr9vh8i94fjkscgvkl5e0is15dditnj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.sociallink"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
